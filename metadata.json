@@ -1,0 +1,12 @@
+{
+	"name": "XML Sitemap",
+	"description": "Generates sitemap file for submission to search engines",
+	"uri":"https://github.com/ostack/qa-xml-sitemap",
+	"version": "2.1.1",
+	"date": "2021-02-06",
+	"author": "Question2Answer,ZhaoGuangYue",
+	"author_uri": "https://github.com/ostack",
+	"license": "GPLv2",
+	"min_q2a": "1.5",
+	"load_order": "after_db_init"
+}

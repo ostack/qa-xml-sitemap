@@ -1,10 +1,10 @@
 ==============================================
-Question2Answer Random Question Widget v2.1.1
+Question2Answer XML site map plugin v2.1.1
 ==============================================
 -----------
 Description
 -----------
-This is a plugin for **Question2Answer** that provides a random question widget. 
+This is a plugin for **Question2Answer** that generates sitemap file for submission to search engines. 
 
 ------------
 Installation
